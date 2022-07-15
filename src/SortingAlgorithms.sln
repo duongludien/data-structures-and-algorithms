@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingAlgorithms", "SortingAlgorithms\SortingAlgorithms.csproj", "{16BD65A2-5AAF-4323-9121-DFDE18C91087}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{F74DA18A-DE85-43EA-AEC5-F506F9F4660B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16BD65A2-5AAF-4323-9121-DFDE18C91087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16BD65A2-5AAF-4323-9121-DFDE18C91087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16BD65A2-5AAF-4323-9121-DFDE18C91087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16BD65A2-5AAF-4323-9121-DFDE18C91087}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F74DA18A-DE85-43EA-AEC5-F506F9F4660B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F74DA18A-DE85-43EA-AEC5-F506F9F4660B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F74DA18A-DE85-43EA-AEC5-F506F9F4660B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F74DA18A-DE85-43EA-AEC5-F506F9F4660B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
