@@ -1,13 +1,9 @@
 package main
 
-import "fmt"
+import "data_structures_and_algorithms/pkg/ds"
 
 func main() {
-	// arr := []int{5, 1, 4, 3, 2}
-	// bubbleSort(arr)
-	// for _, val := range arr {
-	// 	fmt.Println(val)
-	// }
+	list := ds.NewListNode(1)
 
-	fmt.Println("hello, world!")
+	list.Traverse()
 }

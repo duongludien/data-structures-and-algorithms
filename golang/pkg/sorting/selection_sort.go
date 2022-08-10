@@ -1,6 +1,6 @@
 package sorting
 
-func selectionSort(arr []int) {
+func SelectionSort(arr []int) {
 	for i := 1; i < len(arr); i++ {
 		min := arr[i]
 		minKey := i

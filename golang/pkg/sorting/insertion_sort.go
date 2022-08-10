@@ -1,6 +1,6 @@
 package sorting
 
-func insertionSort(arr []int) {
+func InsertionSort(arr []int) {
 
 	for i := 1; i < len(arr); i++ {
 		j := i
